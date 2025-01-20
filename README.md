@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamad99G
-- 👀 I’m interested in cybersecurity and data analytics
-- 🌱 I’m currently learning about data cybersecurity
+- 👀 I’m interested in cybersecurity and data analysis
+- 🌱 I’m currently learning about cybersecurity and data analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: mgh25964@gmail.com
 - 😄 Pronouns: he/him
